@@ -1,1 +1,1 @@
-This readme contains alx pointers arrays
+This readme contains alx low level programming
