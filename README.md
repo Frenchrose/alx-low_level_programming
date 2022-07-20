@@ -1,1 +1,1 @@
-This readme contains alx low level programming
+This readme contains 0x00 hello world
