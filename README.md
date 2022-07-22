@@ -1,1 +1,1 @@
-This readme contains 0x02 functions
+This readme contains0x09 static libraries
